@@ -1,4 +1,4 @@
-// 8 bit shift register
+// 8 bit pshift register
 module sh_8_bit_hdl( 
     input clk,
     input [7:0] data,
